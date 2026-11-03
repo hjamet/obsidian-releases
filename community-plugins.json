@@ -69060,5 +69060,12 @@
     "author": "xibao",
     "description": "Browse documents, images and videos in a masonry gallery view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "iris-lover/obsidian-image-flow"
+  },
+  {
+    "id": "dynamic-section-slides",
+    "name": "Dynamic Section Slides",
+    "author": "Henri Jamet",
+    "description": "Turn any standard Markdown note into interactive full-screen slides with 2D keyboard navigation and a hover table of contents.",
+    "repo": "hjamet/obsidian-dynamic-slides"
   }
 ]
